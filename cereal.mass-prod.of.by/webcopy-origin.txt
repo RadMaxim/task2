@@ -1,0 +1,208 @@
+Uri: https://cereal.mass-prod.of.by/
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\index.htm
+Content Type: text/html
+
+Uri: https://cereal.mass-prod.of.by/bg-start.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\bg-start.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/css/reset.css
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\css\reset.css
+Content Type: text/css
+
+Uri: https://cereal.mass-prod.of.by/css/roboto.css
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\css\roboto.css
+Content Type: text/css
+
+Uri: https://cereal.mass-prod.of.by/css/roboto.woff2
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\css\roboto.woff2
+Content Type: font/woff2
+
+Uri: https://cereal.mass-prod.of.by/css/styles.css
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\css\styles.css
+Content Type: text/css
+
+Uri: https://cereal.mass-prod.of.by/delivery.html
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\delivery.html
+Content Type: text/html
+
+Uri: https://cereal.mass-prod.of.by/fonts/Montserrat-Bold.ttf
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\fonts\Montserrat-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://cereal.mass-prod.of.by/fonts/Montserrat-Bold.woff
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\fonts\Montserrat-Bold.woff
+Content Type: font/woff
+
+Uri: https://cereal.mass-prod.of.by/fonts/Montserrat-Bold.woff2
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\fonts\Montserrat-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://cereal.mass-prod.of.by/fonts/Montserrat-Regular.ttf
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\fonts\Montserrat-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://cereal.mass-prod.of.by/fonts/Montserrat-Regular.woff
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\fonts\Montserrat-Regular.woff
+Content Type: font/woff
+
+Uri: https://cereal.mass-prod.of.by/fonts/Montserrat-Regular.woff2
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\fonts\Montserrat-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://cereal.mass-prod.of.by/img/benefits7__benefit1_image.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\benefits7__benefit1_image.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/benefits7__benefit2_image.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\benefits7__benefit2_image.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/bg_light.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\bg_light.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/characteristics__image.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\characteristics__image.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/characteristics__image1.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\characteristics__image1.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/image1.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\image1.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/main.svg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\main.svg
+Content Type: image/svg+xml
+
+Uri: https://cereal.mass-prod.of.by/img/offer2__discount_bg.png
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\offer2__discount_bg.png
+Content Type: image/png
+
+Uri: https://cereal.mass-prod.of.by/img/offer3__benefit1_image1.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\offer3__benefit1_image1.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/offer3__benefit2_image.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\offer3__benefit2_image.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/offer3__benefit3_image.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\offer3__benefit3_image.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/offer__name_icon.png
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\offer__name_icon.png
+Content Type: image/png
+
+Uri: https://cereal.mass-prod.of.by/img/offer__phone_icon.png
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\offer__phone_icon.png
+Content Type: image/png
+
+Uri: https://cereal.mass-prod.of.by/img/order_steps2__step1_bg.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\order_steps2__step1_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/order_steps2__step2_bg.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\order_steps2__step2_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/order_steps2__step3_bg.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\order_steps2__step3_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/order_steps2__step4_bg.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\order_steps2__step4_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/order_steps__step1_icon.png
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\order_steps__step1_icon.png
+Content Type: image/png
+
+Uri: https://cereal.mass-prod.of.by/img/order_steps__step2_icon.png
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\order_steps__step2_icon.png
+Content Type: image/png
+
+Uri: https://cereal.mass-prod.of.by/img/order_steps__step3_icon.png
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\order_steps__step3_icon.png
+Content Type: image/png
+
+Uri: https://cereal.mass-prod.of.by/img/order_steps__step4_icon.png
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\order_steps__step4_icon.png
+Content Type: image/png
+
+Uri: https://cereal.mass-prod.of.by/img/phone.svg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://cereal.mass-prod.of.by/img/quote1_icon.png
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\quote1_icon.png
+Content Type: image/png
+
+Uri: https://cereal.mass-prod.of.by/img/reviews3__stars.png
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\reviews3__stars.png
+Content Type: image/png
+
+Uri: https://cereal.mass-prod.of.by/img/reviews__review1_avatar.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\reviews__review1_avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/reviews__review2_avatar.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\reviews__review2_avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/reviews__review3_avatar.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\reviews__review3_avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/img/separator_red.png
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\img\separator_red.png
+Content Type: image/png
+
+Uri: https://cereal.mass-prod.of.by/js/alert.js
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\js\alert.js
+Content Type: application/javascript
+
+Uri: https://cereal.mass-prod.of.by/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cereal.mass-prod.of.by/js/maskedinput.js
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\js\maskedinput.js
+Content Type: application/javascript
+
+Uri: https://cereal.mass-prod.of.by/js/scripts.js
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://cereal.mass-prod.of.by/js/slick.js
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\js\slick.js
+Content Type: application/javascript
+
+Uri: https://cereal.mass-prod.of.by/politics.html
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\politics.html
+Content Type: text/html
+
+Uri: https://cereal.mass-prod.of.by/rew1.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\rew1.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/rew2.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\rew2.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/rew3.jpg
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\rew3.jpg
+Content Type: image/jpeg
+
+Uri: https://cereal.mass-prod.of.by/sgls.html
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\sgls.html
+Content Type: text/html
+
+Uri: https://cereal.mass-prod.of.by/vzvrt.html
+File Name: C:\Downloaded Web Sites\cereal.mass-prod.of.by\vzvrt.html
+Content Type: text/html
+
